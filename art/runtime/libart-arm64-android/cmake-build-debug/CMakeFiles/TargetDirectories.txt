@@ -1,0 +1,3 @@
+/media/zoopwn/new/android_source/out/development/ide/clion/art/runtime/libart-arm64-android/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/zoopwn/new/android_source/out/development/ide/clion/art/runtime/libart-arm64-android/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/zoopwn/new/android_source/out/development/ide/clion/art/runtime/libart-arm64-android/cmake-build-debug/CMakeFiles/libart.dir
