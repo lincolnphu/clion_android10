@@ -1,0 +1,1 @@
+# clion_android10
